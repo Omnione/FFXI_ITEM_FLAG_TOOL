@@ -188,7 +188,7 @@ public class FFXIItemFlagTool : Form
         }
     }
 
-    private void CheckBox_CheckedChanged(object sender, EventArgs e)
+    private void CheckBox_CheckedChanged(object? sender, EventArgs e)
     {
         UpdateTotalSum();
     }
@@ -200,7 +200,10 @@ public class FFXIItemFlagTool : Form
         {
             if (control is CheckBox checkBox && checkBox.Checked)
             {
-                totalDecimal += (int)checkBox.Tag;
+                if (checkBox.Tag is int tagValue)
+                {
+                    totalDecimal += tagValue;
+                }
             }
         }
         totalSumLabel.Text = totalDecimal.ToString();

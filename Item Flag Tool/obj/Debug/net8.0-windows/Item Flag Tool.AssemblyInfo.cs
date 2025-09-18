@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Item Flag Tool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf8245806cfcc84b00e920f85d4b32b6df93b622")]
 [assembly: System.Reflection.AssemblyProductAttribute("Item Flag Tool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Item Flag Tool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

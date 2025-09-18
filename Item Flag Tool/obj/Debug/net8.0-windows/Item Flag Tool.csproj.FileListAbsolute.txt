@@ -14,3 +14,20 @@ F:\VS projects\Item Flag Tool\Item Flag Tool\obj\Debug\net8.0-windows\Item Flag 
 F:\VS projects\Item Flag Tool\Item Flag Tool\obj\Debug\net8.0-windows\ref\Item Flag Tool.dll
 F:\VS projects\Item Flag Tool\Item Flag Tool\obj\Debug\net8.0-windows\FFXIItemFlagTool.resources
 F:\VS projects\Item Flag Tool\Item Flag Tool\obj\Debug\net8.0-windows\Item Flag Tool.csproj.GenerateResource.cache
+F:\FFXI_ITEM_FLAG_TOOL\Item Flag Tool\bin\Debug\net8.0-windows\Item Flag Tool.exe
+F:\FFXI_ITEM_FLAG_TOOL\Item Flag Tool\bin\Debug\net8.0-windows\Item Flag Tool.deps.json
+F:\FFXI_ITEM_FLAG_TOOL\Item Flag Tool\bin\Debug\net8.0-windows\Item Flag Tool.runtimeconfig.json
+F:\FFXI_ITEM_FLAG_TOOL\Item Flag Tool\bin\Debug\net8.0-windows\Item Flag Tool.dll
+F:\FFXI_ITEM_FLAG_TOOL\Item Flag Tool\bin\Debug\net8.0-windows\Item Flag Tool.pdb
+F:\FFXI_ITEM_FLAG_TOOL\Item Flag Tool\obj\Debug\net8.0-windows\FFXIItemFlagTool.resources
+F:\FFXI_ITEM_FLAG_TOOL\Item Flag Tool\obj\Debug\net8.0-windows\Item Flag Tool.csproj.GenerateResource.cache
+F:\FFXI_ITEM_FLAG_TOOL\Item Flag Tool\obj\Debug\net8.0-windows\Item Flag Tool.GeneratedMSBuildEditorConfig.editorconfig
+F:\FFXI_ITEM_FLAG_TOOL\Item Flag Tool\obj\Debug\net8.0-windows\Item Flag Tool.AssemblyInfoInputs.cache
+F:\FFXI_ITEM_FLAG_TOOL\Item Flag Tool\obj\Debug\net8.0-windows\Item Flag Tool.AssemblyInfo.cs
+F:\FFXI_ITEM_FLAG_TOOL\Item Flag Tool\obj\Debug\net8.0-windows\Item Flag Tool.csproj.CoreCompileInputs.cache
+F:\FFXI_ITEM_FLAG_TOOL\Item Flag Tool\obj\Debug\net8.0-windows\Item Flag Tool.sourcelink.json
+F:\FFXI_ITEM_FLAG_TOOL\Item Flag Tool\obj\Debug\net8.0-windows\Item Flag Tool.dll
+F:\FFXI_ITEM_FLAG_TOOL\Item Flag Tool\obj\Debug\net8.0-windows\refint\Item Flag Tool.dll
+F:\FFXI_ITEM_FLAG_TOOL\Item Flag Tool\obj\Debug\net8.0-windows\Item Flag Tool.pdb
+F:\FFXI_ITEM_FLAG_TOOL\Item Flag Tool\obj\Debug\net8.0-windows\Item Flag Tool.genruntimeconfig.cache
+F:\FFXI_ITEM_FLAG_TOOL\Item Flag Tool\obj\Debug\net8.0-windows\ref\Item Flag Tool.dll
