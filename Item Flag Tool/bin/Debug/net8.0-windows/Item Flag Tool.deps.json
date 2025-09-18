@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Item Flag Tool/1.0.0": {
+        "runtime": {
+          "Item Flag Tool.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Item Flag Tool/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

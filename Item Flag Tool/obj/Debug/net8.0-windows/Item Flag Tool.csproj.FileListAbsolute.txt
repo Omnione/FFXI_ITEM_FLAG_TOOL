@@ -1,0 +1,16 @@
+F:\VS projects\Item Flag Tool\Item Flag Tool\obj\Debug\net8.0-windows\Item Flag Tool.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS projects\Item Flag Tool\Item Flag Tool\obj\Debug\net8.0-windows\Item Flag Tool.AssemblyInfoInputs.cache
+F:\VS projects\Item Flag Tool\Item Flag Tool\obj\Debug\net8.0-windows\Item Flag Tool.AssemblyInfo.cs
+F:\VS projects\Item Flag Tool\Item Flag Tool\obj\Debug\net8.0-windows\Item Flag Tool.csproj.CoreCompileInputs.cache
+F:\VS projects\Item Flag Tool\Item Flag Tool\bin\Debug\net8.0-windows\Item Flag Tool.exe
+F:\VS projects\Item Flag Tool\Item Flag Tool\bin\Debug\net8.0-windows\Item Flag Tool.deps.json
+F:\VS projects\Item Flag Tool\Item Flag Tool\bin\Debug\net8.0-windows\Item Flag Tool.runtimeconfig.json
+F:\VS projects\Item Flag Tool\Item Flag Tool\bin\Debug\net8.0-windows\Item Flag Tool.dll
+F:\VS projects\Item Flag Tool\Item Flag Tool\bin\Debug\net8.0-windows\Item Flag Tool.pdb
+F:\VS projects\Item Flag Tool\Item Flag Tool\obj\Debug\net8.0-windows\Item Flag Tool.dll
+F:\VS projects\Item Flag Tool\Item Flag Tool\obj\Debug\net8.0-windows\refint\Item Flag Tool.dll
+F:\VS projects\Item Flag Tool\Item Flag Tool\obj\Debug\net8.0-windows\Item Flag Tool.pdb
+F:\VS projects\Item Flag Tool\Item Flag Tool\obj\Debug\net8.0-windows\Item Flag Tool.genruntimeconfig.cache
+F:\VS projects\Item Flag Tool\Item Flag Tool\obj\Debug\net8.0-windows\ref\Item Flag Tool.dll
+F:\VS projects\Item Flag Tool\Item Flag Tool\obj\Debug\net8.0-windows\FFXIItemFlagTool.resources
+F:\VS projects\Item Flag Tool\Item Flag Tool\obj\Debug\net8.0-windows\Item Flag Tool.csproj.GenerateResource.cache
