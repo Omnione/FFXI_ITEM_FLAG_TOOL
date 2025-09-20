@@ -7,6 +7,19 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>IFT_ICON.ico</ApplicationIcon>
+    <PackageIcon>IFT_ICON.png</PackageIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="IFT_ICON.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\mrsen\Desktop\IFT_ICON.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
