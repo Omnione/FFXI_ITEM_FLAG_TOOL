@@ -36,6 +36,8 @@ public class FFXIItemFlagTool : Form
 
     private Label totalSumLabel;
     private FlowLayoutPanel hexListPanel;
+    private System.Windows.Forms.Timer copyMessageTimer = new System.Windows.Forms.Timer();
+    private Button copyButton;
 
     public FFXIItemFlagTool()
     {
@@ -93,7 +95,7 @@ public class FFXIItemFlagTool : Form
         var checkboxListPanel = new FlowLayoutPanel
         {
             Dock = DockStyle.Fill,
-            AutoScroll = true,
+            AutoScroll = false,
             FlowDirection = FlowDirection.TopDown,
             Padding = new Padding(0, 0, 0, 10),
         };
@@ -139,7 +141,7 @@ public class FFXIItemFlagTool : Form
         };
         resultPanel.Controls.Add(totalSumLabel, 0, 1);
 
-        var copyButton = new Button
+        copyButton = new Button
         {
             Text = "Copy",
             BackColor = ColorTranslator.FromHtml("#4299E1"),
@@ -158,12 +160,23 @@ public class FFXIItemFlagTool : Form
             try
             {
                 Clipboard.SetText(totalSumLabel.Text);
-                MessageBox.Show("Copied!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                copyButton.Text = "Copied!";
+                copyButton.BackColor = ColorTranslator.FromHtml("#68D391");
+                copyMessageTimer.Start();
             }
             catch
             {
                 MessageBox.Show("Could not copy to clipboard.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+        };
+
+        // Initialize the timer for the copy message
+        copyMessageTimer.Interval = 1500; // 1.5 seconds
+        copyMessageTimer.Tick += (sender, e) =>
+        {
+            copyButton.Text = "Copy";
+            copyButton.BackColor = ColorTranslator.FromHtml("#4299E1");
+            copyMessageTimer.Stop();
         };
 
         // Populate the checkboxes
